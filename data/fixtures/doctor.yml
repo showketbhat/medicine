@@ -1,0 +1,8 @@
+# data/fixtures/doctor.yml
+MedicineDoctor:
+  type: full-time
+  name: showket
+  spcialisation: Sensio Labs
+  photo: sensio-labs.gif
+  created_at: 02-02-2011
+  
